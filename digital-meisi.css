@@ -184,7 +184,7 @@ h3{
 	align-items: center;
 	width: 96%;
 	aspect-ratio: 200 / 173;
-	background-image: url(/Digital_sign_images/icon.jpg);
+	background-image: url(Digital_sign_images/icon.jpg);
   background-size: cover;
 	clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
 }
@@ -321,4 +321,5 @@ footer{
 
 @media screen and ((min-width: 481px) and (max-width: 640px)) {
   
+
 }
